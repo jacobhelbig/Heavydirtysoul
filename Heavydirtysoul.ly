@@ -80,7 +80,45 @@ sn> hh16 sn } \break
 	
 	<cymc sn>4 bd <cymc sn> bd | <cymc sn>8 bd8 bd4 <cymc sn>4 bd8 bd |
  	<cymc sn>4 cymc8 cymc cymc4 bd | <cymc sn>4 bd <cymc sn>8 bd bd bd |
-	cymc8 cymc cymc cymc cymc4 bd |
+	cymc8 cymc cymc cymc cymc4 bd | <cymc sn> bd <cymc sn> bd |
+	<cymc sn>8 bd bd4 <cymc sn>4 bd8 bd | <cymc sn>4 cymc8 cymc cymc4 bd |
+	<cymc sn>4 bd <cymc sn>8 bd bd bd |
+	<cymc sn>4 bd \acciaccatura sn sn bd |
+
+	% Death inspires me...
+
+	\repeat percent 8 {r2 sn4 r }
+
+	% bridge: can you save (tambourine)
+	
+	r1 | r1 | r1 | r1 | r1 | r1 | r1 |
+	<bd hh>16 sn <bd hh>8 <sn hh> hh16 sn hh sn <hh bd>8 <sn hh>8 sn16 sn |
+\break
+
+	% for me...
+
+	<bd hh>16 sn <bd hh>8 <sn hh> hh16 sn hh sn <hh bd>8 <sn hh>8 hh16 sn |  
+        <hh bd>8 <hh bd> <hh sn> hh16 sn hh sn <hh bd>8 <hh sn> hh16 sn |        
+        <hh bd>8 <hh bd> <hh sn> hh16 sn hh sn <hh bd>8 <hh sn> hh16 sn |        
+        <bd hh>16 sn <bd hh>8 <sn hh> hh16 sn hh sn <hh bd>8 <sn hh>8 hh16 sn |  
+        <bd hh>16 sn <bd hh>8 <sn hh> hh16 sn hh sn <hh bd>8 <sn hh>8 hh16 sn |  
+        <hh bd>8 <hh bd> <hh sn> hh16 sn hh sn <hh bd>8 <hh sn> hh16 sn |        
+        <hh bd>8 <hh bd> <hh sn> hh16 sn hh sn <hh bd>8 <hh sn> hh16 sn |        
+        <bd hh>16 sn <bd hh>8 <sn hh> sn16 sn sn8 tommh toml toml | \break
+	
+	<cymc sn>4 bd <cymc sn> bd | <cymc sn>8 bd8 bd4 <cymc sn>4 bd8 bd |      
+        <cymc sn>4 cymc8 cymc cymc4 bd | <cymc sn>4 bd <cymc sn>8 bd bd bd |     
+        cymc8 cymc cymc cymc cymc4 bd | <cymc sn> bd <cymc sn> bd |              
+        <cymc sn>8 bd bd4 <cymc sn>4 bd8 bd | <cymc sn>4 cymc8 cymc cymc4 bd |   
+        <cymc sn>4 bd <cymc sn>8 bd bd bd |                                      
+        <cymc sn>4 bd \acciaccatura sn sn bd |
+
+	<cymc sn>4 bd <cymc sn> bd | <cymc sn>8 bd8 bd4 <cymc sn>4 bd8 bd |      
+        <cymc sn>4 cymc8 cymc cymc4 bd | <cymc sn>4 bd <cymc sn>8 bd bd bd |     
+        cymc8 cymc cymc cymc cymc4 bd | <cymc sn> bd <cymc sn> bd |              
+        <cymc sn>8 bd bd4 <cymc sn>4 bd8 bd | <cymc sn>4 cymc8 cymc cymc4 bd |   
+        <cymc sn>4 bd <cymc sn>8 bd bd bd |                                      
+        <cymc sn>4 bd \acciaccatura sn sn bd \bar "|." 
 }
 
 \new DrumStaff <<
